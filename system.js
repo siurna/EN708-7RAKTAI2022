@@ -13,7 +13,7 @@ $(document).ready(function(){
     }
 
     // Change game title
-    $("#lblGameTitle").html('#KPTG: <strong>Brainstorm for Ukraine</strong>');
+    $("#lblGameTitle").html('<strong>7RAKTAI²⁰²²</strong>');
 
     // Change level title
     if ($(".content > h2:first-of-type").length > 0)
@@ -23,7 +23,7 @@ $(document).ready(function(){
     }
 
     // Change favicon
-    $('link[rel="shortcut icon"]').attr('href', 'https://d1.endata.cx/data/games/74028/system--flag.png');
+    $('link[rel="shortcut icon"]').attr('href', 'https://d1.endata.cx/data/games/74588/lock.png');
 
     // Fix bonus @ kulka
     if ($('.bonus-bullet').length > 0)
