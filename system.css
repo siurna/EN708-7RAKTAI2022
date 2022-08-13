@@ -342,6 +342,9 @@ a:not(h1 a), .history .correct a {
 }
 
 /* EXTRA lygiai */
+#bonuses{
+    min-height: auto;
+}
 .bonus{
     max-width: 100%;
     background-color: #fbfbfb;
